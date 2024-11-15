@@ -1,0 +1,19 @@
+{
+  "name": "automatization",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.48.2",
+    "@types/node": "^22.9.0"
+  },
+  "dependencies": {
+    "automatization": "file:",
+    "playwright": "^1.48.2",
+    "playwright-core": "^1.48.2",
+    "undici-types": "^6.19.8"
+  },
+  "description": ""
+}
